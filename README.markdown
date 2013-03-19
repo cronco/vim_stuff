@@ -1,5 +1,5 @@
-Quickly install with:
+My plugins & stuff
+git submodule init
+git submodule update
 
-    git clone git://github.com/msanders/snipmate.vim.git
-	cd snipmate.vim
-	cp -R * ~/.vim
+Additional steps required for command-t and powerline (check the plugins' documentation).

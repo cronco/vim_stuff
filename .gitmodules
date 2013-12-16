@@ -67,3 +67,9 @@
 [submodule "bundle/vim-abolish"]
 	path = bundle/vim-abolish
 	url = https://github.com/tpope/vim-abolish.git
+[submodule "bundle/vim-multiple-cursors"]
+	path = bundle/vim-multiple-cursors
+	url = https://github.com/terryma/vim-multiple-cursors.git
+[submodule "investigate.vim"]
+	path = investigate.vim
+	url = https://github.com/Keithbsmiley/investigate.vim.git

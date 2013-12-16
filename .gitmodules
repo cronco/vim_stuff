@@ -71,5 +71,21 @@
 	path = bundle/vim-multiple-cursors
 	url = https://github.com/terryma/vim-multiple-cursors.git
 [submodule "investigate.vim"]
-	path = investigate.vim
+	path = bundle/investigate.vim
 	url = https://github.com/Keithbsmiley/investigate.vim.git
+[submodule "fuzzyfinder_textmate"]
+  path = bundle/fuzzyfinder_textmate
+  url = https://github.com/sethbc/fuzzyfinder_textmatei.git
+[submodule "supertab"]
+  path = bundle/supertab
+  url = https://github.com/ervandew/supertab.git
+[submodule "vim-commentary"]
+  path = bundle/vim-commentary
+  url = https://github.com/tpope/vim-commentary.git
+[submodule "vim-rails"]
+  path = bundle/vim-rails
+  url = https://github.com/tpope/vim-rails.git
+[submodule "vim-repeat"]
+  path = bundle/vim-repeat
+  url = https://github.com/tpope/vim-repeat.git
+

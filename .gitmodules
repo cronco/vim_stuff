@@ -4,12 +4,27 @@
 [submodule "bundle/command-t"]
 	path = bundle/command-t
 	url = git://git.wincent.com/command-t.git
-[submodule "bundle/vim-javascript"]
-	path = bundle/vim-javascript
-	url = git://github.com/pangloss/vim-javascript.git
 [submodule "bundle/vim-less"]
 	path = bundle/vim-less
 	url = git://github.com/lunaru/vim-less.git
 [submodule "bundle/vim-css3"]
 	path = bundle/vim-css3
 	url = git://github.com/hail2u/vim-css3-syntax.git
+[submodule "bundle/vim-multiple-cursors"]
+	path = bundle/vim-multiple-cursors
+	url = https://github.com/terryma/vim-multiple-cursors.git
+[submodule "base16"]
+	path = colors/base16
+	url = git://github.com/chriskempson/base16-vim.git
+[submodule "/home/cronco/.vim/bundle/vim-javascript-syntax"]
+	path = /home/cronco/.vim/bundle/vim-javascript-syntax
+	url = https://github.com/jelera/vim-javascript-syntax.git
+[submodule "/home/cronco/.vim/bundle/javascript-libraries-syntax"]
+	path = /home/cronco/.vim/bundle/javascript-libraries-syntax
+	url = https://github.com/othree/javascript-libraries-syntax.vim.git
+[submodule "bundle/tern_for_vim"]
+	path = bundle/tern_for_vim
+	url = https://github.com/marijnh/tern_for_vim.git
+[submodule "bundle/ctrlp"]
+	path = bundle/ctrlp
+	url = https://github.com/kien/ctrlp.vim

@@ -89,3 +89,9 @@
   path = bundle/vim-repeat
   url = https://github.com/tpope/vim-repeat.git
 
+[submodule "bundle/mustache"]
+	path = bundle/mustache
+	url = https://github.com/mustache/vim-mustache-handlebars.git
+[submodule "colors/base16"]
+	path = colors/base16
+	url = https://github.com/chriskempson/base16-vim.git

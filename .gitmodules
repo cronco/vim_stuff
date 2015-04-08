@@ -55,3 +55,12 @@
 [submodule "bundle/vim-markdown"]
 	path = bundle/vim-markdown
 	url = git@github.com:tpope/vim-markdown.git
+[submodule "bundle/seoul256"]
+	path = bundle/seoul256
+	url = git@github.com:junegunn/seoul256.vim.git
+[submodule "bundle/csapprox"]
+	path = bundle/csapprox
+	url = git@github.com:godlygeek/csapprox.git
+[submodule "bundle/editorconfig-vim"]
+	path = bundle/editorconfig-vim
+	url = git@github.com:editorconfig/editorconfig-vim.git
